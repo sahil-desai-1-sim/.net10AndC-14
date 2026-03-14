@@ -1,4 +1,4 @@
-namespace dotnet10andc14;
+namespace c14;
 
 public static class PartialMembers
 {

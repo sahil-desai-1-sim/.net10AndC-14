@@ -1,4 +1,4 @@
-﻿using dotnet10andc14;
+﻿using c14;
 
 Console.WriteLine("========================================");
 Console.WriteLine("    C# 14 Features Demo (.NET 10)");
